@@ -2,6 +2,9 @@
 
 ### How to installᴥ︎︎︎
 ```
+apt-get install git -y
+```
+```
 git clone https://github.com/Woman010/CAT
 ```
 ### How to useᴥ︎︎︎
