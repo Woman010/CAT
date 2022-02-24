@@ -9,7 +9,9 @@ git clone https://github.com/Woman010/CAT
 ```
 cd CAT
 ```
+```
 chmod +x setup.sh
+```
 ```
 bash setup.sh
 ```
