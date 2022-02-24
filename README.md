@@ -1,5 +1,6 @@
 # Name script : CAT(˃ᆺ˂)
-<img src="Images_Script.jpg">
+# Image Scriptᴥ︎︎︎
+<p align="center"><img src="Images_Script.jpg"></p>
 # How to installᴥ︎︎︎
 ```
 git clone https://github.com/Woman010/CAT
