@@ -1,4 +1,4 @@
-# CAT
+# CAT(˃ᆺ˂)
 # How to installᴥ︎︎︎
 ```
 git clone https://github.com/Woman010/CAT
