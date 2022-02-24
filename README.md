@@ -17,4 +17,5 @@ chmod +x setup.sh
 ```
 bash setup.sh
 ```
+#### Support : Termux
 ### Thank you for useᴥ︎︎︎
